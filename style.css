@@ -1,0 +1,17 @@
+/*
+Theme Name:         Roots Child
+Theme URI:          http://kuroi.github.com/rootschild
+Description:        Roots child is a starting point for extending the WordPress Roots theme.
+Version:            0.1.0
+Template:           roots
+Author:             Peter Coles
+Author URI:         http://petercoles.com
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
+*/
+
+/*
+  Your styles should be compiled from LESS to this child theme's bootstrap stylesheets
+  or placed in its app.css file. Styles placed in this file will be ignored.
++/ 
